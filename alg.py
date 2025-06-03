@@ -8,3 +8,5 @@ def diff_int(a, b):
     return a - b
 
 # reginald to byl
+#W jezyku Javie Skrypt
+
