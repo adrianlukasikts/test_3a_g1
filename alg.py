@@ -7,4 +7,6 @@ def sum_float(a: float, b: float) -> float:
 def diff_int(a, b):
     return a - b
 
+
 # reginald to byl
+#W jezyku Javie Skrypt
