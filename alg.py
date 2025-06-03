@@ -6,3 +6,5 @@ def sum_float(a: float, b: float) -> float:
 
 def diff_int(a, b):
     return a - b
+
+#W jezyku Javie Skrypt
